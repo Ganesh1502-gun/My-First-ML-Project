@@ -1,0 +1,16 @@
+Model Outputs
+
+1. Decision Tree:]    
+mean:  4.27193599904294    2
+standard daviation:  0.7775257916406
+
+
+2. Linear Regression:
+    mean:  5.037482786117751
+    standard daviation:  1.059438240560695
+
+3. RandomForest Regression:
+    mean:  3.301961620269954
+    standard daviation:  0.7040608050208857
+2.47.52
+063
